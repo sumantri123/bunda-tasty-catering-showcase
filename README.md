@@ -5,6 +5,9 @@
   <img src="./capture/banner.png" width="700">
 </p>
 
+Aplikasi ini merupakan showcase / demo project yang digunakan untuk portofolio.
+Beberapa data dan fitur mungkin tidak sepenuhnya lengkap atau disederhanakan untuk kebutuhan portofolio.
+
 Website company profile dan sistem pemesanan digital Bunda Tasty Catering yang dikembangkan untuk mendukung layanan pemesanan catering secara online, publikasi menu, informasi paket catering, promosi layanan, dan komunikasi pelanggan secara terintegrasi.
 
 ---
