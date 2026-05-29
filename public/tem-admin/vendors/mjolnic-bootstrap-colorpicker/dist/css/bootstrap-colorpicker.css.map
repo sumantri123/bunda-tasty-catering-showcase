@@ -1,0 +1,165 @@
+560096d82fd6915c
+Description-en: Oracle Linux kernel extra modules for version 5.13.0 on 64 bit x86 SMP
+ This package contains the Oracle Linux kernel extra modules for version 5.13.0 on
+ 64 bit x86 SMP.
+ .
+ Also includes the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Oracle processors.
+ .
+ Geared toward Oracle Cloud systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-oracle meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-extra-5.13.0-1034-oracle
+Description-md5: ddb59cdf84f015d8560096d82fd6915c
+Description-en: Oracle Linux kernel extra modules for version 5.13.0 on 64 bit x86 SMP
+ This package contains the Oracle Linux kernel extra modules for version 5.13.0 on
+ 64 bit x86 SMP.
+ .
+ Also includes the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Oracle processors.
+ .
+ Geared toward Oracle Cloud systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-oracle meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-extra-5.13.0-1036-oracle
+Description-md5: ddb59cdf84f015d8560096d82fd6915c
+Description-en: Oracle Linux kernel extra modules for version 5.13.0 on 64 bit x86 SMP
+ This package contains the Oracle Linux kernel extra modules for version 5.13.0 on
+ 64 bit x86 SMP.
+ .
+ Also includes the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Oracle processors.
+ .
+ Geared toward Oracle Cloud systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-oracle meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-extra-5.13.0-21-generic
+Description-md5: 7243c50bcac6c93407fba2028d475b4d
+Description-en: Linux kernel extra modules for version 5.13.0 on 64 bit x86 SMP
+ This package contains the Linux kernel extra modules for version 5.13.0 on
+ 64 bit x86 SMP.
+ .
+ Also includes the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-extra-5.13.0-22-generic
+Description-md5: 7243c50bcac6c93407fba2028d475b4d
+Description-en: Linux kernel extra modules for version 5.13.0 on 64 bit x86 SMP
+ This package contains the Linux kernel extra modules for version 5.13.0 on
+ 64 bit x86 SMP.
+ .
+ Also includes the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-extra-5.13.0-23-generic
+Description-md5: 7243c50bcac6c93407fba2028d475b4d
+Description-en: Linux kernel extra modules for version 5.13.0 on 64 bit x86 SMP
+ This package contains the Linux kernel extra modules for version 5.13.0 on
+ 64 bit x86 SMP.
+ .
+ Also includes the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-extra-5.13.0-25-generic
+Description-md5: 7243c50bcac6c93407fba2028d475b4d
+Description-en: Linux kernel extra modules for version 5.13.0 on 64 bit x86 SMP
+ This package contains the Linux kernel extra modules for version 5.13.0 on
+ 64 bit x86 SMP.
+ .
+ Also includes the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-extra-5.13.0-27-generic
+Description-md5: 7243c50bcac6c93407fba2028d475b4d
+Description-en: Linux kernel extra modules for version 5.13.0 on 64 bit x86 SMP
+ This package contains the Linux kernel extra modules for version 5.13.0 on
+ 64 bit x86 SMP.
+ .
+ Also includes the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-extra-5.13.0-28-generic
+Description-md5: 7243c50bcac6c93407fba2028d475b4d
+Description-en: Linux kernel extra modules for version 5.13.0 on 64 bit x86 SMP
+ This package contains the Linux kernel extra modules for version 5.13.0 on
+ 64 bit x86 SMP.
+ .
+ Also includes the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-extra-5.13.0-30-generic
+Description-md5: 7243c50bcac6c93407fba2028d475b4d
+Description-en: Linux kernel extra modules for version 5.13.0 on 64 bit x86 SMP
+ This package conta

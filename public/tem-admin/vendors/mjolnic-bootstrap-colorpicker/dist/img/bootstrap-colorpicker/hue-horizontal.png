@@ -1,0 +1,14 @@
+sure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports amd64 processors.
+ .
+ Geared toward GCP/GKE systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-gcp meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-extra-5.15.0-1013-azure
+Description-md5: 41e35fd098448caa25bb2d03fe69e3f4
+Description-en: Linux kernel extra 

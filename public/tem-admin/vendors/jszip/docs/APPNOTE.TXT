@@ -1,0 +1,3556 @@
+an
+ unbootable state after an update.
+ .
+ Supports IBM processors.
+ .
+ Geared toward IBM systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-ibm meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1028-oracle
+Description-md5: 095dbec0d2cc6b146652427e7fde5ffd
+Description-en: Oracle Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Oracle processors.
+ .
+ Geared toward Oracle Cloud systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-oracle meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1029-aws
+Description-md5: ea398656d741e1c7c229f185d0e07272
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports AWS processors.
+ .
+ Geared toward Amazon Web Services (AWS) systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-aws meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1029-gcp
+Description-md5: fe4a4f8f8da1d263c638f10af04ef103
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports amd64 processors.
+ .
+ Geared toward GCP/GKE systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-gcp meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1029-gkeop
+Description-md5: 37b14c6321c43a60e869880b4d2797b6
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward GKE on-prem installations.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-gkeop meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1029-ibm
+Description-md5: 10f057f5ece886191a14e86186b7de69
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports IBM processors.
+ .
+ Geared toward IBM systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-ibm meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1029-oracle
+Description-md5: 095dbec0d2cc6b146652427e7fde5ffd
+Description-en: Oracle Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Oracle processors.
+ .
+ Geared toward Oracle Cloud systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-oracle meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1030-kvm
+Description-md5: 03f64ecc39ead7bdc04f5eb28cec525e
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports amd64 processors.
+ .
+ Geared toward virtual systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-kvm meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1031-azure
+Description-md5: 38e54885d40cd56f8086c36ee156d4f2
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Azure processors.
+ .
+ Geared toward Azure systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-azure meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1031-gkeop
+Description-md5: 37b14c6321c43a60e869880b4d2797b6
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward GKE on-prem installations.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-gkeop meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1031-ibm
+Description-md5: 10f057f5ece886191a14e86186b7de69
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports IBM processors.
+ .
+ Geared toward IBM systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-ibm meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1031-kvm
+Description-md5: 03f64ecc39ead7bdc04f5eb28cec525e
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports amd64 processors.
+ .
+ Geared toward virtual systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-kvm meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1032-aws
+Description-md5: ea398656d741e1c7c229f185d0e07272
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports AWS processors.
+ .
+ Geared toward Amazon Web Services (AWS) systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-aws meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1032-gcp
+Description-md5: fe4a4f8f8da1d263c638f10af04ef103
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports amd64 processors.
+ .
+ Geared toward GCP/GKE systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-gcp meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1032-gkeop
+Description-md5: 37b14c6321c43a60e869880b4d2797b6
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward GKE on-prem installations.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-gkeop meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1032-ibm
+Description-md5: 10f057f5ece886191a14e86186b7de69
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports IBM processors.
+ .
+ Geared toward IBM systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-ibm meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1032-kvm
+Description-md5: 03f64ecc39ead7bdc04f5eb28cec525e
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports amd64 processors.
+ .
+ Geared toward virtual systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-kvm meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1032-oracle
+Description-md5: 095dbec0d2cc6b146652427e7fde5ffd
+Description-en: Oracle Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Oracle processors.
+ .
+ Geared toward Oracle Cloud systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-oracle meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1033-gcp
+Description-md5: fe4a4f8f8da1d263c638f10af04ef103
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports amd64 processors.
+ .
+ Geared toward GCP/GKE systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-gcp meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1033-gke
+Description-md5: b7a5c18807f49ebdb73d9bca33407e31
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports amd64 processors.
+ .
+ Geared toward GKE systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-gke meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1033-gkeop
+Description-md5: 37b14c6321c43a60e869880b4d2797b6
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward GKE on-prem installations.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-gkeop meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1033-ibm
+Description-md5: 10f057f5ece886191a14e86186b7de69
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports IBM processors.
+ .
+ Geared toward IBM systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-ibm meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1033-kvm
+Description-md5: 03f64ecc39ead7bdc04f5eb28cec525e
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports amd64 processors.
+ .
+ Geared toward virtual systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-kvm meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1034-aws
+Description-md5: ea398656d741e1c7c229f185d0e07272
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports AWS processors.
+ .
+ Geared toward Amazon Web Services (AWS) systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-aws meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1034-azure
+Description-md5: 38e54885d40cd56f8086c36ee156d4f2
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Azure processors.
+ .
+ Geared toward Azure systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-azure meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1034-gcp
+Description-md5: fe4a4f8f8da1d263c638f10af04ef103
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports amd64 processors.
+ .
+ Geared toward GCP/GKE systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-gcp meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1034-gkeop
+Description-md5: 37b14c6321c43a60e869880b4d2797b6
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward GKE on-prem installations.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-gkeop meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1034-ibm
+Description-md5: 10f057f5ece886191a14e86186b7de69
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports IBM processors.
+ .
+ Geared toward IBM systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-ibm meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1034-kvm
+Description-md5: 03f64ecc39ead7bdc04f5eb28cec525e
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports amd64 processors.
+ .
+ Geared toward virtual systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-kvm meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1034-oracle
+Description-md5: 095dbec0d2cc6b146652427e7fde5ffd
+Description-en: Oracle Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Oracle processors.
+ .
+ Geared toward Oracle Cloud systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-oracle meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1035-aws
+Description-md5: ea398656d741e1c7c229f185d0e07272
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports AWS processors.
+ .
+ Geared toward Amazon Web Services (AWS) systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-aws meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1035-azure
+Description-md5: 38e54885d40cd56f8086c36ee156d4f2
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Azure processors.
+ .
+ Geared toward Azure systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-azure meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1035-gke
+Description-md5: b7a5c18807f49ebdb73d9bca33407e31
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports amd64 processors.
+ .
+ Geared toward GKE systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-gke meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1035-oracle
+Description-md5: 095dbec0d2cc6b146652427e7fde5ffd
+Description-en: Oracle Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Oracle processors.
+ .
+ Geared toward Oracle Cloud systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-oracle meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1036-azure
+Description-md5: 38e54885d40cd56f8086c36ee156d4f2
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Azure processors.
+ .
+ Geared toward Azure systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-azure meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1036-gcp
+Description-md5: fe4a4f8f8da1d263c638f10af04ef103
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports amd64 processors.
+ .
+ Geared toward GCP/GKE systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-gcp meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1036-gke
+Description-md5: b7a5c18807f49ebdb73d9bca33407e31
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports amd64 processors.
+ .
+ Geared toward GKE systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-gke meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1036-gkeop
+Description-md5: 37b14c6321c43a60e869880b4d2797b6
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward GKE on-prem installations.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-gkeop meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1036-ibm
+Description-md5: 10f057f5ece886191a14e86186b7de69
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports IBM processors.
+ .
+ Geared toward IBM systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-ibm meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1036-kvm
+Description-md5: 03f64ecc39ead7bdc04f5eb28cec525e
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports amd64 processors.
+ .
+ Geared toward virtual systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-kvm meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1037-aws
+Description-md5: ea398656d741e1c7c229f185d0e07272
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports AWS processors.
+ .
+ Geared toward Amazon Web Services (AWS) systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-aws meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1037-gcp
+Description-md5: fe4a4f8f8da1d263c638f10af04ef103
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports amd64 processors.
+ .
+ Geared toward GCP/GKE systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-gcp meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1037-gke
+Description-md5: b7a5c18807f49ebdb73d9bca33407e31
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports amd64 processors.
+ .
+ Geared toward GKE systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-gke meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1037-gkeop
+Description-md5: 37b14c6321c43a60e869880b4d2797b6
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward GKE on-prem installations.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-gkeop meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1037-ibm
+Description-md5: 10f057f5ece886191a14e86186b7de69
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports IBM processors.
+ .
+ Geared toward IBM systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-ibm meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1037-kvm
+Description-md5: 03f64ecc39ead7bdc04f5eb28cec525e
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports amd64 processors.
+ .
+ Geared toward virtual systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-kvm meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1037-oracle
+Description-md5: 095dbec0d2cc6b146652427e7fde5ffd
+Description-en: Oracle Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Oracle processors.
+ .
+ Geared toward Oracle Cloud systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-oracle meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1038-aws
+Description-md5: ea398656d741e1c7c229f185d0e07272
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports AWS processors.
+ .
+ Geared toward Amazon Web Services (AWS) systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-aws meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1038-gcp
+Description-md5: fe4a4f8f8da1d263c638f10af04ef103
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports amd64 processors.
+ .
+ Geared toward GCP/GKE systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-gcp meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1038-gkeop
+Description-md5: 37b14c6321c43a60e869880b4d2797b6
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward GKE on-prem installations.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-gkeop meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1038-kvm
+Description-md5: 03f64ecc39ead7bdc04f5eb28cec525e
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports amd64 processors.
+ .
+ Geared toward virtual systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-kvm meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1038-oracle
+Description-md5: 095dbec0d2cc6b146652427e7fde5ffd
+Description-en: Oracle Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Oracle processors.
+ .
+ Geared toward Oracle Cloud systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-oracle meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1039-aws
+Description-md5: ea398656d741e1c7c229f185d0e07272
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports AWS processors.
+ .
+ Geared toward Amazon Web Services (AWS) systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-aws meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1039-azure
+Description-md5: 38e54885d40cd56f8086c36ee156d4f2
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Azure processors.
+ .
+ Geared toward Azure systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-azure meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1039-gke
+Description-md5: b7a5c18807f49ebdb73d9bca33407e31
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports amd64 processors.
+ .
+ Geared toward GKE systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-gke meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1039-gkeop
+Description-md5: 37b14c6321c43a60e869880b4d2797b6
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward GKE on-prem installations.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-gkeop meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1039-kvm
+Description-md5: 03f64ecc39ead7bdc04f5eb28cec525e
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports amd64 processors.
+ .
+ Geared toward virtual systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-kvm meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1039-oracle
+Description-md5: 095dbec0d2cc6b146652427e7fde5ffd
+Description-en: Oracle Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Oracle processors.
+ .
+ Geared toward Oracle Cloud systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-oracle meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-104-generic
+Description-md5: 8a3037b605a1bf658fc9eef87f439114
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-104-lowlatency
+Description-md5: fc229ad0e47757af22b7ad2471eb4b57
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Lowlatency processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-lowlatency meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1040-azure
+Description-md5: 38e54885d40cd56f8086c36ee156d4f2
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Azure processors.
+ .
+ Geared toward Azure systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-azure meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1040-gcp
+Description-md5: fe4a4f8f8da1d263c638f10af04ef103
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports amd64 processors.
+ .
+ Geared toward GCP/GKE systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-gcp meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1040-gkeop
+Description-md5: 37b14c6321c43a60e869880b4d2797b6
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward GKE on-prem installations.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-gkeop meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1040-ibm
+Description-md5: 10f057f5ece886191a14e86186b7de69
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports IBM processors.
+ .
+ Geared toward IBM systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-ibm meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1040-kvm
+Description-md5: 03f64ecc39ead7bdc04f5eb28cec525e
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports amd64 processors.
+ .
+ Geared toward virtual systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-kvm meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1041-aws
+Description-md5: ea398656d741e1c7c229f185d0e07272
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports AWS processors.
+ .
+ Geared toward Amazon Web Services (AWS) systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-aws meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1041-azure
+Description-md5: 38e54885d40cd56f8086c36ee156d4f2
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Azure processors.
+ .
+ Geared toward Azure systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-azure meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1041-gcp
+Description-md5: fe4a4f8f8da1d263c638f10af04ef103
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports amd64 processors.
+ .
+ Geared toward GCP/GKE systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-gcp meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1041-gke
+Description-md5: b7a5c18807f49ebdb73d9bca33407e31
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports amd64 processors.
+ .
+ Geared toward GKE systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-gke meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1041-ibm
+Description-md5: 10f057f5ece886191a14e86186b7de69
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports IBM processors.
+ .
+ Geared toward IBM systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-ibm meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1041-kvm
+Description-md5: 03f64ecc39ead7bdc04f5eb28cec525e
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports amd64 processors.
+ .
+ Geared toward virtual systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-kvm meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1041-oracle
+Description-md5: 095dbec0d2cc6b146652427e7fde5ffd
+Description-en: Oracle Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Oracle processors.
+ .
+ Geared toward Oracle Cloud systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-oracle meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1042-gcp
+Description-md5: fe4a4f8f8da1d263c638f10af04ef103
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports amd64 processors.
+ .
+ Geared toward GCP/GKE systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-gcp meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1042-gke
+Description-md5: b7a5c18807f49ebdb73d9bca33407e31
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports amd64 processors.
+ .
+ Geared toward GKE systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-gke meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1042-ibm
+Description-md5: 10f057f5ece886191a14e86186b7de69
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports IBM processors.
+ .
+ Geared toward IBM systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-ibm meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1042-oracle
+Description-md5: 095dbec0d2cc6b146652427e7fde5ffd
+Description-en: Oracle Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Oracle processors.
+ .
+ Geared toward Oracle Cloud systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-oracle meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1043-aws
+Description-md5: ea398656d741e1c7c229f185d0e07272
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports AWS processors.
+ .
+ Geared toward Amazon Web Services (AWS) systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-aws meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1043-azure
+Description-md5: 38e54885d40cd56f8086c36ee156d4f2
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Azure processors.
+ .
+ Geared toward Azure systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-azure meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1043-gcp
+Description-md5: fe4a4f8f8da1d263c638f10af04ef103
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports amd64 processors.
+ .
+ Geared toward GCP/GKE systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-gcp meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1043-gke
+Description-md5: b7a5c18807f49ebdb73d9bca33407e31
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports amd64 processors.
+ .
+ Geared toward GKE systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-gke meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1043-gkeop
+Description-md5: 37b14c6321c43a60e869880b4d2797b6
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward GKE on-prem installations.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-gkeop meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1043-oracle
+Description-md5: 095dbec0d2cc6b146652427e7fde5ffd
+Description-en: Oracle Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Oracle processors.
+ .
+ Geared toward Oracle Cloud systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-oracle meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1044-azure
+Description-md5: 38e54885d40cd56f8086c36ee156d4f2
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Azure processors.
+ .
+ Geared toward Azure systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-azure meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1044-gcp
+Description-md5: fe4a4f8f8da1d263c638f10af04ef103
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports amd64 processors.
+ .
+ Geared toward GCP/GKE systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-gcp meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1044-gke
+Description-md5: b7a5c18807f49ebdb73d9bca33407e31
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports amd64 processors.
+ .
+ Geared toward GKE systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-gke meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1044-ibm
+Description-md5: 10f057f5ece886191a14e86186b7de69
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports IBM processors.
+ .
+ Geared toward IBM systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-ibm meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1044-kvm
+Description-md5: 03f64ecc39ead7bdc04f5eb28cec525e
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports amd64 processors.
+ .
+ Geared toward virtual systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-kvm meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1045-aws
+Description-md5: ea398656d741e1c7c229f185d0e07272
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports AWS processors.
+ .
+ Geared toward Amazon Web Services (AWS) systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-aws meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1045-ibm
+Description-md5: 10f057f5ece886191a14e86186b7de69
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports IBM processors.
+ .
+ Geared toward IBM systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-ibm meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1045-kvm
+Description-md5: 03f64ecc39ead7bdc04f5eb28cec525e
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports amd64 processors.
+ .
+ Geared toward virtual systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-kvm meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1045-oracle
+Description-md5: 095dbec0d2cc6b146652427e7fde5ffd
+Description-en: Oracle Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Oracle processors.
+ .
+ Geared toward Oracle Cloud systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-oracle meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1046-azure
+Description-md5: 38e54885d40cd56f8086c36ee156d4f2
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Azure processors.
+ .
+ Geared toward Azure systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-azure meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1046-gcp
+Description-md5: fe4a4f8f8da1d263c638f10af04ef103
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports amd64 processors.
+ .
+ Geared toward GCP/GKE systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-gcp meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1046-gke
+Description-md5: b7a5c18807f49ebdb73d9bca33407e31
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports amd64 processors.
+ .
+ Geared toward GKE systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-gke meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1046-gkeop
+Description-md5: 37b14c6321c43a60e869880b4d2797b6
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward GKE on-prem installations.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-gkeop meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1046-ibm
+Description-md5: 10f057f5ece886191a14e86186b7de69
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports IBM processors.
+ .
+ Geared toward IBM systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-ibm meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1046-kvm
+Description-md5: 03f64ecc39ead7bdc04f5eb28cec525e
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports amd64 processors.
+ .
+ Geared toward virtual systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-kvm meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1046-oracle
+Description-md5: 095dbec0d2cc6b146652427e7fde5ffd
+Description-en: Oracle Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Oracle processors.
+ .
+ Geared toward Oracle Cloud systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-oracle meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1047-aws
+Description-md5: ea398656d741e1c7c229f185d0e07272
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports AWS processors.
+ .
+ Geared toward Amazon Web Services (AWS) systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-aws meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1047-azure
+Description-md5: 38e54885d40cd56f8086c36ee156d4f2
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Azure processors.
+ .
+ Geared toward Azure systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-azure meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1047-ibm
+Description-md5: 10f057f5ece886191a14e86186b7de69
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports IBM processors.
+ .
+ Geared toward IBM systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-ibm meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1047-kvm
+Description-md5: 03f64ecc39ead7bdc04f5eb28cec525e
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports amd64 processors.
+ .
+ Geared toward virtual systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-kvm meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1048-aws
+Description-md5: ea398656d741e1c7c229f185d0e07272
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports AWS processors.
+ .
+ Geared toward Amazon Web Services (AWS) systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-aws meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1048-azure
+Description-md5: 38e54885d40cd56f8086c36ee156d4f2
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Azure processors.
+ .
+ Geared toward Azure systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-azure meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1048-gkeop
+Description-md5: 37b14c6321c43a60e869880b4d2797b6
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward GKE on-prem installations.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-gkeop meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1048-ibm
+Description-md5: 10f057f5ece886191a14e86186b7de69
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports IBM processors.
+ .
+ Geared toward IBM systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-ibm meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1048-kvm
+Description-md5: 03f64ecc39ead7bdc04f5eb28cec525e
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports amd64 processors.
+ .
+ Geared toward virtual systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-kvm meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1048-oracle
+Description-md5: 095dbec0d2cc6b146652427e7fde5ffd
+Description-en: Oracle Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Oracle processors.
+ .
+ Geared toward Oracle Cloud systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-oracle meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1049-aws
+Description-md5: ea398656d741e1c7c229f185d0e07272
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports AWS processors.
+ .
+ Geared toward Amazon Web Services (AWS) systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-aws meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1049-azure
+Description-md5: 38e54885d40cd56f8086c36ee156d4f2
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Azure processors.
+ .
+ Geared toward Azure systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-azure meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1049-gcp
+Description-md5: fe4a4f8f8da1d263c638f10af04ef103
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports amd64 processors.
+ .
+ Geared toward GCP/GKE systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-gcp meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1049-gke
+Description-md5: b7a5c18807f49ebdb73d9bca33407e31
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports amd64 processors.
+ .
+ Geared toward GKE systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-gke meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1049-gkeop
+Description-md5: 37b14c6321c43a60e869880b4d2797b6
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward GKE on-prem installations.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-gkeop meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1049-ibm
+Description-md5: 10f057f5ece886191a14e86186b7de69
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports IBM processors.
+ .
+ Geared toward IBM systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-ibm meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1049-kvm
+Description-md5: 03f64ecc39ead7bdc04f5eb28cec525e
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports amd64 processors.
+ .
+ Geared toward virtual systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-kvm meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1049-oracle
+Description-md5: 095dbec0d2cc6b146652427e7fde5ffd
+Description-en: Oracle Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Oracle processors.
+ .
+ Geared toward Oracle Cloud systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-oracle meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-105-generic
+Description-md5: 8a3037b605a1bf658fc9eef87f439114
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-105-lowlatency
+Description-md5: fc229ad0e47757af22b7ad2471eb4b57
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Lowlatency processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-lowlatency meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1050-ibm
+Description-md5: 10f057f5ece886191a14e86186b7de69
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports IBM processors.
+ .
+ Geared toward IBM systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-ibm meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1050-kvm
+Description-md5: 03f64ecc39ead7bdc04f5eb28cec525e
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports amd64 processors.
+ .
+ Geared toward virtual systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-kvm meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1051-aws
+Description-md5: ea398656d741e1c7c229f185d0e07272
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports AWS processors.
+ .
+ Geared toward Amazon Web Services (AWS) systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-aws meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1051-azure
+Description-md5: 38e54885d40cd56f8086c36ee156d4f2
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Azure processors.
+ .
+ Geared toward Azure systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-azure meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1051-gcp
+Description-md5: fe4a4f8f8da1d263c638f10af04ef103
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports amd64 processors.
+ .
+ Geared toward GCP/GKE systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-gcp meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1051-gke
+Description-md5: b7a5c18807f49ebdb73d9bca33407e31
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports amd64 processors.
+ .
+ Geared toward GKE systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-gke meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1051-gkeop
+Description-md5: 37b14c6321c43a60e869880b4d2797b6
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward GKE on-prem installations.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-gkeop meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1051-ibm
+Description-md5: 10f057f5ece886191a14e86186b7de69
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports IBM processors.
+ .
+ Geared toward IBM systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-ibm meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1051-kvm
+Description-md5: 03f64ecc39ead7bdc04f5eb28cec525e
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports amd64 processors.
+ .
+ Geared toward virtual systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-kvm meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1052-gcp
+Description-md5: fe4a4f8f8da1d263c638f10af04ef103
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports amd64 processors.
+ .
+ Geared toward GCP/GKE systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-gcp meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1052-gke
+Description-md5: b7a5c18807f49ebdb73d9bca33407e31
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports amd64 processors.
+ .
+ Geared toward GKE systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-gke meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1052-gkeop
+Description-md5: 37b14c6321c43a60e869880b4d2797b6
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward GKE on-prem installations.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-gkeop meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1052-ibm
+Description-md5: 10f057f5ece886191a14e86186b7de69
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports IBM processors.
+ .
+ Geared toward IBM systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-ibm meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1052-oracle
+Description-md5: 095dbec0d2cc6b146652427e7fde5ffd
+Description-en: Oracle Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Oracle processors.
+ .
+ Geared toward Oracle Cloud systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-oracle meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1053-gcp
+Description-md5: fe4a4f8f8da1d263c638f10af04ef103
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports amd64 processors.
+ .
+ Geared toward GCP/GKE systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-gcp meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1053-gke
+Description-md5: b7a5c18807f49ebdb73d9bca33407e31
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports amd64 processors.
+ .
+ Geared toward GKE systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-gke meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1053-gkeop
+Description-md5: 37b14c6321c43a60e869880b4d2797b6
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward GKE on-prem installations.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-gkeop meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1053-ibm
+Description-md5: 10f057f5ece886191a14e86186b7de69
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports IBM processors.
+ .
+ Geared toward IBM systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-ibm meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1053-kvm
+Description-md5: 03f64ecc39ead7bdc04f5eb28cec525e
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports amd64 processors.
+ .
+ Geared toward virtual systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-kvm meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1053-oracle
+Description-md5: 095dbec0d2cc6b146652427e7fde5ffd
+Description-en: Oracle Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Oracle processors.
+ .
+ Geared toward Oracle Cloud systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-oracle meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1054-aws
+Description-md5: ea398656d741e1c7c229f185d0e07272
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports AWS processors.
+ .
+ Geared toward Amazon Web Services (AWS) systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-aws meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1054-gke
+Description-md5: b7a5c18807f49ebdb73d9bca33407e31
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports amd64 processors.
+ .
+ Geared toward GKE systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-gke meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1054-gkeop
+Description-md5: 37b14c6321c43a60e869880b4d2797b6
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward GKE on-prem installations.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-gkeop meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1054-kvm
+Description-md5: 03f64ecc39ead7bdc04f5eb28cec525e
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports amd64 processors.
+ .
+ Geared toward virtual systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-kvm meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1054-oracle
+Description-md5: 095dbec0d2cc6b146652427e7fde5ffd
+Description-en: Oracle Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Oracle processors.
+ .
+ Geared toward Oracle Cloud systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-oracle meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1055-aws
+Description-md5: ea398656d741e1c7c229f185d0e07272
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports AWS processors.
+ .
+ Geared toward Amazon Web Services (AWS) systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-aws meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1055-azure
+Description-md5: 38e54885d40cd56f8086c36ee156d4f2
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Azure processors.
+ .
+ Geared toward Azure systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-azure meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1055-gcp
+Description-md5: fe4a4f8f8da1d263c638f10af04ef103
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports amd64 processors.
+ .
+ Geared toward GCP/GKE systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-gcp meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1055-gke
+Description-md5: b7a5c18807f49ebdb73d9bca33407e31
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports amd64 processors.
+ .
+ Geared toward GKE systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-gke meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1055-kvm
+Description-md5: 03f64ecc39ead7bdc04f5eb28cec525e
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports amd64 processors.
+ .
+ Geared toward virtual systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-kvm meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1055-oracle
+Description-md5: 095dbec0d2cc6b146652427e7fde5ffd
+Description-en: Oracle Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Oracle processors.
+ .
+ Geared toward Oracle Cloud systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-oracle meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1056-aws
+Description-md5: ea398656d741e1c7c229f185d0e07272
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports AWS processors.
+ .
+ Geared toward Amazon Web Services (AWS) systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-aws meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1056-azure
+Description-md5: 38e54885d40cd56f8086c36ee156d4f2
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Azure processors.
+ .
+ Geared toward Azure systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-azure meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1056-gcp
+Description-md5: fe4a4f8f8da1d263c638f10af04ef103
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports amd64 processors.
+ .
+ Geared toward GCP/GKE systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-gcp meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1056-gke
+Description-md5: b7a5c18807f49ebdb73d9bca33407e31
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports amd64 processors.
+ .
+ Geared toward GKE systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-gke meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1056-gkeop
+Description-md5: 37b14c6321c43a60e869880b4d2797b6
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward GKE on-prem installations.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-gkeop meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1056-kvm
+Description-md5: 03f64ecc39ead7bdc04f5eb28cec525e
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports amd64 processors.
+ .
+ Geared toward virtual systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-kvm meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1056-oracle
+Description-md5: 095dbec0d2cc6b146652427e7fde5ffd
+Description-en: Oracle Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Oracle processors.
+ .
+ Geared toward Oracle Cloud systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-oracle meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1057-aws
+Description-md5: ea398656d741e1c7c229f185d0e07272
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports AWS processors.
+ .
+ Geared toward Amazon Web Services (AWS) systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-aws meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1057-gcp
+Description-md5: fe4a4f8f8da1d263c638f10af04ef103
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports amd64 processors.
+ .
+ Geared toward GCP/GKE systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-gcp meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1057-gke
+Description-md5: b7a5c18807f49ebdb73d9bca33407e31
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports amd64 processors.
+ .
+ Geared toward GKE systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-gke meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1057-gkeop
+Description-md5: 37b14c6321c43a60e869880b4d2797b6
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward GKE on-prem installations.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-gkeop meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1057-oracle
+Description-md5: 095dbec0d2cc6b146652427e7fde5ffd
+Description-en: Oracle Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Oracle processors.
+ .
+ Geared toward Oracle Cloud systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-oracle meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1058-aws
+Description-md5: ea398656d741e1c7c229f185d0e07272
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports AWS processors.
+ .
+ Geared toward Amazon Web Services (AWS) systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-aws meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1058-azure
+Description-md5: 38e54885d40cd56f8086c36ee156d4f2
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Azure processors.
+ .
+ Geared toward Azure systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-azure meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1058-gcp
+Description-md5: fe4a4f8f8da1d263c638f10af04ef103
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports amd64 processors.
+ .
+ Geared toward GCP/GKE systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-gcp meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1058-kvm
+Description-md5: 03f64ecc39ead7bdc04f5eb28cec525e
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports amd64 processors.
+ .
+ Geared toward virtual systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-kvm meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1058-oracle
+Description-md5: 095dbec0d2cc6b146652427e7fde5ffd
+Description-en: Oracle Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Oracle processors.
+ .
+ Geared toward Oracle Cloud systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-oracle meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1059-aws
+Description-md5: ea398656d741e1c7c229f185d0e07272
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports AWS processors.
+ .
+ Geared toward Amazon Web Services (AWS) systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-aws meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1059-azure
+Description-md5: 38e54885d40cd56f8086c36ee156d4f2
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Azure processors.
+ .
+ Geared toward Azure systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-azure meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1059-gcp
+Description-md5: fe4a4f8f8da1d263c638f10af04ef103
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports amd64 processors.
+ .
+ Geared toward GCP/GKE systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-gcp meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1059-gke
+Description-md5: b7a5c18807f49ebdb73d9bca33407e31
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports amd64 processors.
+ .
+ Geared toward GKE systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-gke meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1059-kvm
+Description-md5: 03f64ecc39ead7bdc04f5eb28cec525e
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports amd64 processors.
+ .
+ Geared toward virtual systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-kvm meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1059-oracle
+Description-md5: 095dbec0d2cc6b146652427e7fde5ffd
+Description-en: Oracle Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Oracle processors.
+ .
+ Geared toward Oracle Cloud systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-oracle meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1060-aws
+Description-md5: ea398656d741e1c7c229f185d0e07272
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports AWS processors.
+ .
+ Geared toward Amazon Web Services (AWS) systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-aws meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1060-gcp
+Description-md5: fe4a4f8f8da1d263c638f10af04ef103
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports amd64 processors.
+ .
+ Geared toward GCP/GKE systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-gcp meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1060-gkeop
+Description-md5: 37b14c6321c43a60e869880b4d2797b6
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward GKE on-prem installations.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-gkeop meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1061-aws
+Description-md5: ea398656d741e1c7c229f185d0e07272
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports AWS processors.
+ .
+ Geared toward Amazon Web Services (AWS) systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-aws meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1061-azure
+Description-md5: 38e54885d40cd56f8086c36ee156d4f2
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Azure processors.
+ .
+ Geared toward Azure systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-azure meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1061-gke
+Description-md5: b7a5c18807f49ebdb73d9bca33407e31
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports amd64 processors.
+ .
+ Geared toward GKE systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-gke meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1061-gkeop
+Description-md5: 37b14c6321c43a60e869880b4d2797b6
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward GKE on-prem installations.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-gkeop meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1061-kvm
+Description-md5: 03f64ecc39ead7bdc04f5eb28cec525e
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports amd64 processors.
+ .
+ Geared toward virtual systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-kvm meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1061-oracle
+Description-md5: 095dbec0d2cc6b146652427e7fde5ffd
+Description-en: Oracle Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Oracle processors.
+ .
+ Geared toward Oracle Cloud systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-oracle meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1062-azure
+Description-md5: 38e54885d40cd56f8086c36ee156d4f2
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Azure processors.
+ .
+ Geared toward Azure systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-azure meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1062-gcp
+Description-md5: fe4a4f8f8da1d263c638f10af04ef103
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports amd64 processors.
+ .
+ Geared toward GCP/GKE systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-gcp meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1062-gke
+Description-md5: b7a5c18807f49ebdb73d9bca33407e31
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports amd64 processors.
+ .
+ Geared toward GKE systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-gke meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1062-gkeop
+Description-md5: 37b14c6321c43a60e869880b4d2797b6
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward GKE on-prem installations.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-gkeop meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1062-kvm
+Description-md5: 03f64ecc39ead7bdc04f5eb28cec525e
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports amd64 processors.
+ .
+ Geared toward virtual systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-kvm meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1062-oracle
+Description-md5: 095dbec0d2cc6b146652427e7fde5ffd
+Description-en: Oracle Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Oracle processors.
+ .
+ Geared toward Oracle Cloud systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-oracle meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1063-aws
+Description-md5: ea398656d741e1c7c229f185d0e07272
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports AWS processors.
+ .
+ Geared toward Amazon Web Services (AWS) systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-aws meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1063-azure
+Description-md5: 38e54885d40cd56f8086c36ee156d4f2
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Azure processors.
+ .
+ Geared toward Azure systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-azure meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1063-azure-cvm
+Description-md5: 8b71f9132e0a0b57baa248294236b14b
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Azure processors.
+ .
+ Geared toward Azure systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-azure-cvm meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1063-gcp
+Description-md5: fe4a4f8f8da1d263c638f10af04ef103
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports amd64 processors.
+ .
+ Geared toward GCP/GKE systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-gcp meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1063-gke
+Description-md5: b7a5c18807f49ebdb73d9bca33407e31
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports amd64 processors.
+ .
+ Geared toward GKE systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-gke meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1063-kvm
+Description-md5: 03f64ecc39ead7bdc04f5eb28cec525e
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports amd64 processors.
+ .
+ Geared toward virtual systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-kvm meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1063-oracle
+Description-md5: 095dbec0d2cc6b146652427e7fde5ffd
+Description-en: Oracle Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Oracle processors.
+ .
+ Geared toward Oracle Cloud systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-oracle meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1064-aws
+Description-md5: ea398656d741e1c7c229f185d0e07272
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports AWS processors.
+ .
+ Geared toward Amazon Web Services (AWS) systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-aws meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1064-azure
+Description-md5: 38e54885d40cd56f8086c36ee156d4f2
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Azure processors.
+ .
+ Geared toward Azure systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-azure meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1064-azure-cvm
+Description-md5: 8b71f9132e0a0b57baa248294236b14b
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Azure processors.
+ .
+ Geared toward Azure systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-azure-cvm meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1064-gcp
+Description-md5: fe4a4f8f8da1d263c638f10af04ef103
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports amd64 processors.
+ .
+ Geared toward GCP/GKE systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-gcp meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1064-gkeop
+Description-md5: 37b14c6321c43a60e869880b4d2797b6
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward GKE on-prem installations.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-gkeop meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1064-oracle
+Description-md5: 095dbec0d2cc6b146652427e7fde5ffd
+Description-en: Oracle Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Oracle processors.
+ .
+ Geared toward Oracle Cloud systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-oracle meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1065-aws
+Description-md5: ea398656d741e1c7c229f185d0e07272
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports AWS processors.
+ .
+ Geared toward Amazon Web Services (AWS) systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-aws meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1065-azure
+Description-md5: 38e54885d40cd56f8086c36ee156d4f2
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Azure processors.
+ .
+ Geared toward Azure systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-azure meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1065-azure-cvm
+Description-md5: 8b71f9132e0a0b57baa248294236b14b
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Azure processors.
+ .
+ Geared toward Azure systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-azure-cvm meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1065-gcp
+Description-md5: fe4a4f8f8da1d263c638f10af04ef103
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports amd64 processors.
+ .
+ Geared toward GCP/GKE systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-gcp meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1065-gke
+Description-md5: b7a5c18807f49ebdb73d9bca33407e31
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports amd64 processors.
+ .
+ Geared toward GKE systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-gke meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1065-gkeop
+Description-md5: 37b14c6321c43a60e869880b4d2797b6
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward GKE on-prem installations.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-gkeop meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1065-kvm
+Description-md5: 03f64ecc39ead7bdc04f5eb28cec525e
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports amd64 processors.
+ .
+ Geared toward virtual systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-kvm meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1066-aws
+Description-md5: ea398656d741e1c7c229f185d0e07272
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports AWS processors.
+ .
+ Geared toward Amazon Web Services (AWS) systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-aws meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1066-gke
+Description-md5: b7a5c18807f49ebdb73d9bca33407e31
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports amd64 processors.
+ .
+ Geared toward GKE systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-gke meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1066-gkeop
+Description-md5: 37b14c6321c43a60e869880b4d2797b6
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward GKE on-prem installations.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-gkeop meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1066-oracle
+Description-md5: 095dbec0d2cc6b146652427e7fde5ffd
+Description-en: Oracle Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Oracle processors.
+ .
+ Geared toward Oracle Cloud systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-oracle meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1067-azure
+Description-md5: 38e54885d40cd56f8086c36ee156d4f2
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Azure processors.
+ .
+ Geared toward Azure systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-azure meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1067-azure-cvm
+Description-md5: 8b71f9132e0a0b57baa248294236b14b
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Azure processors.
+ .
+ Geared toward Azure systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-azure-cvm meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1067-gcp
+Description-md5: fe4a4f8f8da1d263c638f10af04ef103
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports amd64 processors.
+ .
+ Geared toward GCP/GKE systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-gcp meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1067-gke
+Description-md5: b7a5c18807f49ebdb73d9bca33407e31
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports amd64 processors.
+ .
+ Geared toward GKE systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-gke meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1067-gkeop
+Description-md5: 37b14c6321c43a60e869880b4d2797b6
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward GKE on-prem installations.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-gkeop meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1067-oracle
+Description-md5: 095dbec0d2cc6b146652427e7fde5ffd
+Description-en: Oracle Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Oracle processors.
+ .
+ Geared toward Oracle Cloud systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-oracle meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1068-aws
+Description-md5: ea398656d741e1c7c229f185d0e07272
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports AWS processors.
+ .
+ Geared toward Amazon Web Services (AWS) systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-aws meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1068-azure
+Description-md5: 38e54885d40cd56f8086c36ee156d4f2
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Azure processors.
+ .
+ Geared toward Azure systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-azure meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1068-azure-cvm
+Description-md5: 8b71f9132e0a0b57baa248294236b14b
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Azure processors.
+ .
+ Geared toward Azure systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-azure-cvm meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1068-gcp
+Description-md5: fe4a4f8f8da1d263c638f10af04ef103
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports amd64 processors.
+ .
+ Geared toward GCP/GKE systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-gcp meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1068-gke
+Description-md5: b7a5c18807f49ebdb73d9bca33407e31
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports amd64 processors.
+ .
+ Geared toward GKE systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-gke meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1068-gkeop
+Description-md5: 37b14c6321c43a60e869880b4d2797b6
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward GKE on-prem installations.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-gkeop meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1068-kvm
+Description-md5: 03f64ecc39ead7bdc04f5eb28cec525e
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports amd64 processors.
+ .
+ Geared toward virtual systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-kvm meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1069-aws
+Description-md5: ea398656d741e1c7c229f185d0e07272
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports AWS processors.
+ .
+ Geared toward Amazon Web Services (AWS) systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-aws meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1069-azure
+Description-md5: 38e54885d40cd56f8086c36ee156d4f2
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Azure processors.
+ .
+ Geared toward Azure systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-azure meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1069-azure-cvm
+Description-md5: 8b71f9132e0a0b57baa248294236b14b
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Azure processors.
+ .
+ Geared toward Azure systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-azure-cvm meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1069-gcp
+Description-md5: fe4a4f8f8da1d263c638f10af04ef103
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports amd64 processors.
+ .
+ Geared toward GCP/GKE systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-gcp meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1069-gkeop
+Description-md5: 37b14c6321c43a60e869880b4d2797b6
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward GKE on-prem installations.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-gkeop meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1069-oracle
+Description-md5: 095dbec0d2cc6b146652427e7fde5ffd
+Description-en: Oracle Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Oracle processors.
+ .
+ Geared toward Oracle Cloud systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-oracle meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-107-generic
+Description-md5: 8a3037b605a1bf658fc9eef87f439114
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-generic meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-107-lowlatency
+Description-md5: fc229ad0e47757af22b7ad2471eb4b57
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Lowlatency processors.
+ .
+ Geared toward desktop and server systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-lowlatency meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1070-azure
+Description-md5: 38e54885d40cd56f8086c36ee156d4f2
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Azure processors.
+ .
+ Geared toward Azure systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-azure meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1070-azure-cvm
+Description-md5: 8b71f9132e0a0b57baa248294236b14b
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Azure processors.
+ .
+ Geared toward Azure systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-azure-cvm meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1070-gkeop
+Description-md5: 37b14c6321c43a60e869880b4d2797b6
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Generic processors.
+ .
+ Geared toward GKE on-prem installations.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-gkeop meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1070-kvm
+Description-md5: 03f64ecc39ead7bdc04f5eb28cec525e
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports amd64 processors.
+ .
+ Geared toward virtual systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-kvm meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1070-oracle
+Description-md5: 095dbec0d2cc6b146652427e7fde5ffd
+Description-en: Oracle Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and scripts that try to ensure that the system is not left in an
+ unbootable state after an update.
+ .
+ Supports Oracle processors.
+ .
+ Geared toward Oracle Cloud systems.
+ .
+ You likely do not want to install this package directly. Instead, install
+ the linux-oracle meta-package, which will ensure that upgrades work
+ correctly, and that supporting packages are also installed.
+
+Package: linux-modules-5.4.0-1071-aws
+Description-md5: ea398656d741e1c7c229f185d0e07272
+Description-en: Linux kernel extra modules for version 5.4.0 on 64 bit x86 SMP
+ Contains the corresponding System.map file, the modules built by the
+ packager, and
